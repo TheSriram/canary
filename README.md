@@ -41,7 +41,7 @@ $ meteor
 
 # API
 
-The API is optional.  Usually the canary-server is run via cron.
+The API is optional.  Usually the canary-producer is run via cron.
 
 ```python
 
